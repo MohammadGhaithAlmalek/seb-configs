@@ -17,7 +17,7 @@
     <key>ignoreExitKeys</key>
     <true />
     <key>hashedQuitPassword</key>
-    <string>B5EE4534320B0804C6C2F36FB5F17EA23062AC646071D680B339EDA6F6AA079E</string>
+    <string />
     <key>exitKey1</key>
     <integer>2</integer>
     <key>exitKey2</key>
@@ -201,7 +201,7 @@
     <key>allowUploads</key>
     <false />
     <key>examKeySalt</key>
-    <data>9biuD8UkKg59SFsZQT2FlPD4aTmy46TfCASZrwaaAH0=</data>
+    <data>uofC+j4jf56sIbJRaTZeLZlwixcif1c7Oen4j13Xtxo=</data>
     <key>examSessionClearCookiesOnEnd</key>
     <true />
     <key>examSessionClearCookiesOnStart</key>
@@ -1589,7 +1589,7 @@
     <key>enableAltEsc</key>
     <false />
     <key>enableAltTab</key>
-    <true />
+    <false />
     <key>enableAltF4</key>
     <false />
     <key>enableStartMenu</key>
@@ -1597,7 +1597,7 @@
     <key>enableMiddleMouse</key>
     <false />
     <key>enableRightMouse</key>
-    <true />
+    <false />
     <key>enablePrintScreen</key>
     <false />
     <key>enableAltMouseWheel</key>
